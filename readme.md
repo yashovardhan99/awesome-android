@@ -347,6 +347,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Shutter-Android](https://github.com/levibostian/Shutter-Android) - Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.
 - [Validator](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
+- [TimeIt](https://github.com/yashovardhan99/timeit) - A simple and easy to use stopwatch library for android
 
 ### Debugging Tools
 
